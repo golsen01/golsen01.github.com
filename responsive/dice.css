@@ -1,4 +1,8 @@
 
+h1.hidden
+{
+	display:visible;
+}
 h2.hidden 
 {
 	display:none;
