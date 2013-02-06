@@ -13,10 +13,6 @@ img.background
 {
 	display:none;
 }
-h1.hidden
-{
-	display:visible;
-}
 h1.frontpage
 {
 	text-align:center;

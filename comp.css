@@ -19,12 +19,6 @@ img.background
 	z-index:-1;
 }
 
-h1.hidden
-{
-	display:none;
-}
-
-
 h1.frontpage
 {
 	text-align:center;
