@@ -1,0 +1,7 @@
+img
+{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	z-index:-1;
+}
+	

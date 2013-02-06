@@ -1,3 +1,7 @@
+body
+{
+	margin:100px 150px 150px 150px;
+}
 img.normal
 {
 	width:150px;
@@ -5,13 +9,22 @@ img.normal
     left: 50%;
 	margin-left: -75px;	
 }
+img.background
+{
+	position:fixed;
+	left:0px;
+	top:0px;
+	opacity:0.4;
+	filter:alpha(opacity=40);
+	z-index:-1;
+}
 
 h1.frontpage
 {
 	text-align:center;
 	text-decoration:underline;
 	font-size:40px;
-	font-family:Helvetica;
+	font-family:Book Antiqua;
 	color:black;
 	letter-spacing:3px;
 }
@@ -21,7 +34,7 @@ h2.frontpage
 	text-align:center;
 	color:blue;
 	font-size:30px;
-	font-family:Helvetica;
+	font-family:Book Antiqua;
 }
 
 h3.frontpage
@@ -29,5 +42,95 @@ h3.frontpage
 	text-align:center;
 	color:blue;
 	font-size:30px;
-	font-family:Helvetica;
+	font-family:Book Antiqua;
 }
+
+p.bio
+{
+	font-family:Book Antiqua;
+	font-size:18px;
+	text-align:center;
+	margin-left: auto;
+	margin-right:auto;
+	width:700px;
+}
+
+hr
+{
+	color:black;
+	background-color:black;
+	height: 2px;
+}
+h1.header
+{
+	font-size:30px;
+	font-style:bold;
+	font-family:Book Antiqua;
+}
+p.header
+{
+	font-size:18px;
+	font-family:Book Antiqua;
+}
+h2.section
+{
+	font-size:20px;
+	font-style:bold;
+	font-family:Book Antiqua;
+}
+p.section
+{
+	font-size:18px;
+	font-family:Book Antiqua;
+}
+ul
+{
+	font-family:Book Antiqua;
+	width: 600px;
+}
+li:first-line
+{
+	font-size:18px;
+	font-style:normal;
+}
+li
+{
+	font-size:16px;
+	font-style:italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
