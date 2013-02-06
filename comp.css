@@ -1,0 +1,33 @@
+img.normal
+{
+	width:150px;
+	position: relative;
+    left: 50%;
+	margin-left: -75px;	
+}
+
+h1.frontpage
+{
+	text-align:center;
+	text-decoration:underline;
+	font-size:40px;
+	font-family:Helvetica;
+	color:black;
+	letter-spacing:3px;
+}
+
+h2.frontpage
+{
+	text-align:center;
+	color:blue;
+	font-size:30px;
+	font-family:Helvetica;
+}
+
+h3.frontpage
+{
+	text-align:center;
+	color:blue;
+	font-size:30px;
+	font-family:Helvetica;
+}
