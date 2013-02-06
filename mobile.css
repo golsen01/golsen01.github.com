@@ -11,12 +11,7 @@ img.normal
 }
 img.background
 {
-	position:fixed;
-	left:0px;
-	top:0px;
-	opacity:0.4;
-	filter:alpha(opacity=40);
-	z-index:-1;
+	display:none;
 }
 h1.hidden
 {
@@ -40,7 +35,7 @@ h2.frontpage
 	font-family:Book Antiqua;
 }
 
-h3.frontpage
+h2.frontpage2
 {
 	text-align:center;
 	color:blue;
