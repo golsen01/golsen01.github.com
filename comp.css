@@ -15,7 +15,7 @@ img.background
 	left:0px;
 	top:0px;
 	opacity:0.4;
-	filter:alpha(opacity=40);
+	filter:alpha;
 	z-index:-1;
 }
 
