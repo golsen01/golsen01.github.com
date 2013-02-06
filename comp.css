@@ -19,6 +19,12 @@ img.background
 	z-index:-1;
 }
 
+h1.hidden
+{
+	display:none;
+}
+
+
 h1.frontpage
 {
 	text-align:center;
@@ -52,7 +58,7 @@ p.bio
 	text-align:center;
 	margin-left: auto;
 	margin-right:auto;
-	width:700px;
+	max-width:700px;
 }
 
 hr
@@ -86,7 +92,7 @@ p.section
 ul
 {
 	font-family:Book Antiqua;
-	width: 600px;
+	max-width: 600px;
 }
 li:first-line
 {
