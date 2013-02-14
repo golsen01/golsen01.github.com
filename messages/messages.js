@@ -38,8 +38,8 @@ function loadmsg(){
 	}
 	
 	else if (name == "hannah" || name == "Hannah"){
-		image(5);
-		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! Here is a picture of what you would be doing if you were here. Love ya!! ");
+		image(4);
+		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! I got your package and your card and I even stuck the envelope to my bulletin board cause it's so cool :) Here is a picture of what you would be doing if you were here. Love ya!! ");
 		block.appendChild(address);
 	}
 	
