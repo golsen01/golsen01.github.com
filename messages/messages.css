@@ -16,7 +16,7 @@ body.special{
 .bg1 {
 	background-image: url(liz.jpg); 
 	background-position:50% -25%;
-	background-size:50%;
+	background-size:40%;
 	background-repeat:no-repeat;
 	background-color:pink;
 }
@@ -48,7 +48,7 @@ body.special{
 .bg5{
 	background-image: url(hannah.jpg); 
 	background-position:50% -40%;
-	background-size:40%;
+	background-size:35%;
 	background-repeat:no-repeat;
 	background-color:pink;
 }
