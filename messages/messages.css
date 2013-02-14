@@ -76,6 +76,23 @@ body.special{
 	background-repeat:no-repeat;
 	background-color:pink;
 }
+
+.bg9{
+	background-image: url(christina.jpg); 
+	background-position:50% -20%;
+	background-size:35%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
+
+.bg10{
+	background-image: url(kita.png); 
+	background-position:50% -10%;
+	background-size:20%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
+
 h1
 {
 	text-align: center;

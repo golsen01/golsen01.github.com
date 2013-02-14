@@ -60,6 +60,19 @@ function loadmsg(){
 		address = document.createTextNode("Happy Valentine's Day, Baby!!");
 		block.appendChild(address);
 	}
+	
+	else if (name == "Christina" || name == "christina"){
+		image(9);
+		address = document.createTextNode("Whatchu thinkin about, valentine??");
+		block.appendChild(address);
+	}
+	
+	else if (name == "kita" || name == "Kita"){
+		image(10);
+		address = document.createTextNode("Because I love you more than kittens. Happy Valentine's Day!");
+		block.appendChild(address);
+	}
+		
 	else{
 		alert("Grace has no messages for " + name + " at this time. Please come back later!");
 	}
