@@ -11,10 +11,8 @@ function loadmsg(){
 	
 	if (name == "Liz" || name == "liz" || name == "Elizabeth" || name == "elizabeth"){
 		image(1);
-		address = document.createTextNode("Hi beautiful!");
+		address = document.createTextNode("Hi beautiful! Happy Valentine's Day! I love you and I will carry you off to be my cave wife forever!");
 		block.appendChild(address);
-		tag = document.createTextNode("Happy Valentine's Day! I love you and I will carry you off to be my cave wife forever!");
-		block.appendChild(tag);
 	}
 	else if (name == "erik" || name == "Erik" || name == "pet fish"){
 		image(2);
@@ -41,7 +39,7 @@ function loadmsg(){
 	
 	else if (name == "hannah" || name == "Hannah"){
 		image(5);
-		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! I got your package and your card and I even stuck the envelope to my bulletin board cause it's so cool :) Here is a picture of what you would be doing if you were here. Love ya!! ");
+		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! Here is a picture of what you would be doing if you were here. Love ya!! ");
 		block.appendChild(address);
 	}
 	
