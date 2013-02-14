@@ -75,7 +75,13 @@ function loadmsg(){
 		
 	else if (name == "louise" || name == "Louise"){
 		image(11);
-		address = document.createTextNode("Happy Valentine's Day! Don't forget your secret identity.");
+		address = document.createTextNode("Happy Valentine's Day! Don't forget your secret identity belongs to me :P");
+		block.appendChild(address);
+	}
+	
+	else if (name == "mom" || name == "dad" || name == "Eric" || name == "Cornelia" || name == "eric" || name == "cornelia"){
+		image(12);
+		address = document.createTextNode("Dear Mom and Dad:");
 		block.appendChild(address);
 	}
 		
