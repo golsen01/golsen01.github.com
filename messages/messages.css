@@ -6,7 +6,13 @@ body{
 	text-align: center;
 	font-weight:bold;
 }
-
+body.special{
+	font-family:Batang;
+	font-size:30px;
+	text-align: center;
+	font-weight:bold;
+	background:pink;
+}
 .bg1 {
 	background-image: url(liz.jpg); 
 	background-position:50% -25%;
@@ -24,13 +30,44 @@ body{
 }
 
 .bg3{
-	background-image: url(erik.gif); 
+	background-image: url(watson.jpg); 
+	background-position:50% -10%;
+	background-size:40%;
+	background-repeat:no-repeat;
+	background-color:blue;
+}
+
+.bg4{
+	background-image: url(hog.jpg); 
 	background-position:50% -20%;
+	background-size:40%;
+	background-repeat:no-repeat;
+	background-color:orange;
+}
+
+.bg5{
+	background-image: url(hannah.jpg); 
+	background-position:50% -40%;
 	background-size:40%;
 	background-repeat:no-repeat;
 	background-color:pink;
 }
 
+.bg6{
+	background-image: url(margot.jpg); 
+	background-position:50% -70%;
+	background-size:50%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
+
+.bg7{
+	background-image: url(tessa.png); 
+	background-position:50% -40%;
+	background-size:35%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
 h1
 {
 	text-align: center;
