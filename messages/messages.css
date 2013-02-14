@@ -68,6 +68,14 @@ body.special{
 	background-repeat:no-repeat;
 	background-color:pink;
 }
+
+.bg8{
+	background-image: url(gabe.jpg); 
+	background-position:50% -10%;
+	background-size:35%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
 h1
 {
 	text-align: center;

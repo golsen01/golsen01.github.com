@@ -54,6 +54,12 @@ function loadmsg(){
 		address = document.createTextNode("Well this almost says it all...actually, no it doesn't. Not even the entire periodic table of elements would be able to describe how awesome you are. In any case, much love and have a great day!");
 		block.appendChild(address);
 	}
+	
+	else if (name == "Gabe" || name == "gabe"){
+		image(8);
+		address = document.createTextNode("Happy Valentine's Day, Baby!!");
+		block.appendChild(address);
+	}
 	else{
 		alert("Grace has no messages for " + name + " at this time. Please come back later!");
 	}
