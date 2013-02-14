@@ -46,8 +46,8 @@ body.special{
 }
 
 .bg5{
-	background-image: url(hannah3.jpg); 
-	background-position:50% -40%;
+	background-image: url(hannah4.jpg); 
+	background-position:50% -55%;
 	background-size:35%;
 	background-repeat:no-repeat;
 	background-color:pink;
@@ -93,6 +93,13 @@ body.special{
 	background-color:pink;
 }
 
+.bg11{
+	background-image: url(louise.jpg); 
+	background-position:50% -20%;
+	background-size:40%;
+	background-repeat:no-repeat;
+	background-color:pink;
+}
 h1
 {
 	text-align: center;

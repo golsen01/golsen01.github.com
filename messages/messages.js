@@ -39,7 +39,7 @@ function loadmsg(){
 	
 	else if (name == "hannah" || name == "Hannah"){
 		image(5);
-		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! I got your package and your card and I even stuck the envelope to my bulletin board cause it's so cool :) Here is a picture of what you would be doing if you were here. Love ya!! ");
+		address = document.createTextNode("Hey sexypants, Happy Valentine's Day to my best friend! I got your package and your card and I even stuck the envelope to my bulletin board cause it's so cool :) This was going to be a picture of you making a snow angel but it wouldn't render so this is what you get instead. Love ya!! ");
 		block.appendChild(address);
 	}
 	
@@ -70,6 +70,12 @@ function loadmsg(){
 	else if (name == "kita" || name == "Kita"){
 		image(10);
 		address = document.createTextNode("Because I love you more than kittens. Happy Valentine's Day!");
+		block.appendChild(address);
+	}
+		
+	else if (name == "louise" || name == "Louise"){
+		image(11);
+		address = document.createTextNode("Happy Valentine's Day! Don't forget your secret identity.");
 		block.appendChild(address);
 	}
 		
