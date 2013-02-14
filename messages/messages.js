@@ -81,7 +81,7 @@ function loadmsg(){
 	
 	else if (name == "mom" || name == "dad" || name == "Eric" || name == "Cornelia" || name == "eric" || name == "cornelia"){
 		image(12);
-		address = document.createTextNode("Dear Mom and Dad:");
+		address = document.createTextNode("To: Mom and Dad! Love Grace");
 		block.appendChild(address);
 	}
 		
